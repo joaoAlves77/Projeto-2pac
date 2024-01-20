@@ -1,0 +1,97 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.name, .desc {
+    padding: 30px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+.desc {
+    font-size: 20px;
+}
+.banner {
+    display: flex;
+    justify-content: center;
+    background-image: url(../img/2Pac\ 2.png);
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+}
+section {
+    background-color: black;
+    color: white;
+}
+.careerTime {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: 38px;
+}
+.careerTime2 {
+    display: flex;
+    justify-content: center;
+}
+.left, .right {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+    color: black;
+}
+.left1 {
+    width: 45%;
+    height: 50px;
+    padding: 10px;
+    border: 3px solid red;
+    background-color: aqua;
+}
+.left2 {
+    width: 45%;
+    height: 50px;
+    padding: 10px;
+    border: 3px solid red;
+    background-color: aqua;
+}
+.left3 {
+    width: 45%;
+    height: 50px;
+    padding: 10px;
+    border: 3px solid red;
+    background-color: aqua;
+}
+.right1 {
+    width: 45%;
+    height: 50px;
+    padding: 10px;
+    border: 3px solid red;
+    background-color: aqua;
+}
+.right2 {
+    width: 45%;
+    height: 50px;
+    padding: 10px;
+    border: 3px solid red;
+    background-color: aqua;
+}
+.right3 {
+    width: 45%;
+    height: 50px;
+    padding: 10px;
+    border: 3px solid red;
+    background-color: aqua;
+}
+footer a{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    text-decoration: none;
+}
